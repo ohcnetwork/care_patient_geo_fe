@@ -1,0 +1,10 @@
+{
+  "capture_current_location": "Get current location",
+  "capturing_location": "Getting location...",
+  "current_location_captured": "Current location added",
+  "current_location_caption": "Registering this patient at their location (e.g. a home visit)? Add a Maps link for it to the address.",
+  "geolocation_not_supported": "Geolocation is not supported by this browser",
+  "unable_to_get_current_location": "Unable to get current location: ",
+  "view_on_map": "View on map",
+  "update_location": "Update location"
+}
